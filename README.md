@@ -60,4 +60,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![OCN_EXP1](https://github.com/user-attachments/assets/27317210-37ef-4420-99e3-cb74194b10e5)
+
 ## Result
+Thus the mode characteristics of fiber optic cable is observed and calculated successfully.
